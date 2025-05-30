@@ -15,7 +15,7 @@ export function App() {
       <div role="navigation">
         <ul>
           <li>
-            <Link to="/">Hommie 2</Link>
+            <Link to="/">Hommie 3</Link>
           </li>
           <li>
             <Link to="/page-2">Page 2</Link>
